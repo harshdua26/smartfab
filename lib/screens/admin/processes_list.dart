@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../../providers/inventory_provider.dart';
 import '../../models/process_model.dart';
 
+
 class ProcessesList extends StatefulWidget {
   const ProcessesList({super.key});
 
